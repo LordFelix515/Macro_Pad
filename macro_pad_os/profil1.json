@@ -1,0 +1,15 @@
+{
+  "isim": "Profil1",
+  "tuslar": [
+    {"gorev": "YOK"},
+    {"gorev": "YOK"},
+    {"gorev": "YOK"},
+    {"gorev": "CTRL+C"},
+    {"gorev": "CTRL+V"},
+    {"gorev": "STRING:şifrem_çok_gizli!"},
+    {"gorev": "WIN+D"},
+    {"gorev": "ALT+TAB"},
+    {"gorev": "CTRL+SHIFT+ESC"},
+    {"gorev": "ENTER"}
+  ]
+}

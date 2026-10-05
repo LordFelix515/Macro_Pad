@@ -1,0 +1,19 @@
+# Visual Studio & .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS & CircuitPython Trash / Metadata
+.Trash-*
+.Trashes
+.fseventsd
+.metadata_never_index
+__pycache__/
+*.pyc
+
+# Local settings (optional)
+# macro_pad_os/settings.json
